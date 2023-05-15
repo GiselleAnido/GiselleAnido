@@ -1,7 +1,7 @@
 ### Hello, I'm Giselle 👋
 Welcome to my GitHub profile! I'm a passionate and skilled full-stack web developer with a love for creating innovative and user-friendly applications. I'm constantly exploring new technologies and finding ways to improve my coding skills. 💻🌟
 
-Skills 🚀
+###Skills 🚀
 
 -Frontend Development: I have expertise in HTML5, CSS3, and JavaScript. I'm proficient in using modern frontend frameworks like React, and I have experience in styling with Bootstrap and Sass. 🌐💅
 
@@ -12,14 +12,14 @@ Skills 🚀
 -Version Control: I'm proficient in using Git for version control and have experience collaborating on projects with teams using GitHub. 🗂️👥
 
 
-Project: RescueMe, Pet Adoption Website 🐾
+###Project: RescueMe, Pet Adoption Website 🐾
 
 In one of my projects,my team and I developed a pet adoption website that helps people find and give pets for adoption. The website serves as a platform where users can search for available pets based on their preferences, view pet profiles, and connect with pet owners for adoption.
 
 Feel free to explore the code repository for this project to get a closer look at the implementation details and functionalities!
 
 
-Contact 📬
+###Contact 📬
 
 I'm always open to new opportunities, collaborations, and discussions. You can reach me at giselle.anido.zapata or connect with me on [LinkedIn](https://www.linkedin.com/in/giselle-anido-zapata-899060137/). Let's connect and build something amazing together! ✉️🤝
 
