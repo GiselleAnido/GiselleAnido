@@ -14,13 +14,7 @@ Skills 🚀
 
 Project: RescueMe, Pet Adoption Website 🐾
 
-In one of my projects, I developed a pet adoption website that helps people find and give pets for adoption. The website serves as a platform where users can search for available pets based on their preferences, view pet profiles, and connect with pet owners for adoption.
-
-Backend: For the backend, I utilized Node.js to build the server-side of the application. I designed RESTful APIs to handle user authentication, pet search, and adoption requests. MongoDB was used as the database to store pet profiles, user information, and adoption records.
-
-Frontend: The frontend of the website was developed using React, enabling a dynamic and responsive user interface. I implemented features such as pet search filters, pet profile display, and adoption request forms. I utilized Bootstrap for responsive layouts and Sass for enhanced styling and customization.
-
-Additional Features: The website incorporated additional features like user authentication, allowing users to create accounts, log in, and manage their adoption requests. It also provided a user-friendly admin panel for pet owners to manage their pet profiles and review adoption requests.
+In one of my projects,my team and I developed a pet adoption website that helps people find and give pets for adoption. The website serves as a platform where users can search for available pets based on their preferences, view pet profiles, and connect with pet owners for adoption.
 
 Feel free to explore the code repository for this project to get a closer look at the implementation details and functionalities!
 
