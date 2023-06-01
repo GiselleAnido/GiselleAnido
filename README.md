@@ -3,13 +3,19 @@ Welcome to my GitHub profile! I'm a passionate and skilled full-stack web develo
 
 ### Skills 🚀
 
--Frontend Development: I have expertise in HTML5, CSS3, and JavaScript. I'm proficient in using modern frontend frameworks like React, and I have experience in styling with Bootstrap and Sass. 🌐💅
+-🎨 Frontend Development: I have expertise in HTML5, CSS3, and JavaScript. I'm proficient in using modern frontend frameworks like React, and I have experience in styling with Bootstrap and Sass. 🌐💅
 
--Backend Development: I'm experienced in server-side development using Node.js. I have worked with MongoDB as a NoSQL database, designing schemas and performing CRUD operations. I can also create RESTful APIs to handle data exchange between frontend and backend. 🖥️🔌
+-⚙️ Back-end Development: Node.js, Express.js
 
--Database Management: I have a strong understanding of database concepts and have worked extensively with MongoDB. I can design efficient database schemas and write optimized queries to ensure smooth data retrieval and manipulation. 🗃️🔍
+-🗄️ Database Management: NoSQL (MongoDB), ORM (Mongoose).
 
--Version Control: I'm proficient in using Git for version control and have experience collaborating on projects with teams using GitHub. 🗂️👥
+-📚 Version Control: Git, GitHub, etc.
+
+🌐 API Development: RESTful APIs, Postman, etc.
+
+-🌐 Responsive Design: Media queries, Flexbox, Grid, etc.
+
+-💻 Programming Languages: JavaScript, HTML, CSS.
 
 
 ### Project: RescueMe, Pet Adoption Website 🐾
