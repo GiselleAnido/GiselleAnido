@@ -27,7 +27,7 @@ Feel free to explore the code repository for this project to get a closer look a
 
 ### Contact 📬
 
-I'm always open to new opportunities, collaborations, and discussions. You can reach me at giselle.anido.zapata or connect with me on [LinkedIn](https://www.linkedin.com/in/giselle-anido-zapata-899060137/). Let's connect and build something amazing together! ✉️🤝
+I'm always open to new opportunities, collaborations, and discussions. You can reach me at giselle.anido.zapata or connect with me on [LinkedIn](https://www.linkedin.com/in/giselle-anido-899060137/). Let's connect and build something amazing together! ✉️🤝
 
 Thank you for visiting my profile. Have a great day! 😄🌟
 
